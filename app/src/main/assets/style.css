@@ -1,0 +1,27 @@
+header,
+footer,
+#countdown {
+  text-align: center;
+}
+
+#countdown {
+  margin-bottom: 1rem;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  max-width: 380px;
+  margin: 0 auto;
+}
+
+.prayer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.next {
+background-color: lime;
+  color: red;
+}
